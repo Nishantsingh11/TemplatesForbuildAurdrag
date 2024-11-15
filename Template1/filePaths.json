@@ -1,7 +1,7 @@
 {
   "templates": {
     "Template1": {
-      "components": {
+      "Components": {
         "Basic":{
         "Footer": "src/components/Footer",
         "Navbar": "src/components/Navbar"
