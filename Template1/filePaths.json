@@ -1,0 +1,23 @@
+{
+  "templates": {
+    "Template1": {
+      "components": {
+        "Basic":{
+        "Footer": "src/components/Footer",
+        "Navbar": "src/components/Navbar",
+},
+        "Pages": {
+          "Homepage": "src/pages/Homepage.jsx",
+          "Auth": "src/pages/Auth.jsx",
+          "Checkout": "src/pages/Checkout.jsx",
+          "OrderConfirm": "src/pages/OrderCofirm.jsx",
+          "OrderHistory": "src/pages/Orderhistory.jsx",
+          "ProductDetail": "src/pages/Productdetail.jsx",
+          "SearchResult": "src/pages/Searchresult.jsx",
+          "UserProfile": "src/pages/Userprofile.jsx",
+          "Cart": "src/pages/cart.jsx"
+        }
+      }
+    }
+  }
+}
