@@ -3,18 +3,18 @@
     "Template1": {
       "Components": {
         "Basic":{
-        "Footer": "src/Components/Footer.jsx",
-        "Navbar": "src/Components/Navbar.jsx"
+        "Footer": "Template1/src/Componets/Basic/Footer.jsx",
+        "Navbar": "Template1/src/Componets/Basic/Navbar.jsx"
         },
         "Pages": {
-          "Homepage": "src/pages/Homepage.jsx",
-          "Auth": "src/pages/Auth.jsx",
-          "Checkout": "src/pages/Checkout.jsx",
-          "OrderConfirm": "src/pages/OrderCofirm.jsx",
-          "OrderHistory": "src/pages/Orderhistory.jsx",
-          "ProductDetail": "src/pages/Productdetail.jsx",
-          "SearchResult": "src/pages/Searchresult.jsx",
-          "UserProfile": "src/pages/Userprofile.jsx",
+          "Homepage": "Template1/src/Componets/Pages/Homepage.jsx",
+          "Auth": "Template1/src/Componets/Pages/Auth.jsx",
+          "Checkout": "Template1/src/Componets/Pages/Checkout.jsx",
+          "OrderConfirm": "Template1/src/Componets/Pages/OrderCofirm.jsx",
+          "OrderHistory": "Template1/src/Componets/Pages/Orderhistory.jsx",
+          "ProductDetail": "Template1/src/Componets/Pages/Productdetail.jsx",
+          "SearchResult": "Template1/src/Componets/Pages/Searchresult.jsx",
+          "UserProfile": "Template1/src/Componets/Pages/Userprofile.jsx",
           "Cart": "src/pages/cart.jsx"
         }
       }
