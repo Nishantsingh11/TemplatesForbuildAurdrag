@@ -5,7 +5,7 @@
         "Basic":{
         "Footer": "src/components/Footer",
         "Navbar": "src/components/Navbar",
-},
+        },
         "Pages": {
           "Homepage": "src/pages/Homepage.jsx",
           "Auth": "src/pages/Auth.jsx",
