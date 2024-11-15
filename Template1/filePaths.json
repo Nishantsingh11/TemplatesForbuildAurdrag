@@ -3,8 +3,8 @@
     "Template1": {
       "Components": {
         "Basic":{
-        "Footer": "src/components/Footer",
-        "Navbar": "src/components/Navbar"
+        "Footer": "src/Components/Footer.jsx",
+        "Navbar": "src/Components/Navbar.jsx"
         },
         "Pages": {
           "Homepage": "src/pages/Homepage.jsx",
