@@ -1,0 +1,19 @@
+{
+    "templates": {
+        "Template1": {
+            "layout": {
+                "header": "Template1/src/Componets/Basic/Navbar.jsx",
+                "footer": "Template1/src/Componets/Basic/Footer.jsx",
+                "main": {
+                    "defaultPage": "Template1/src/Componets/Pages/Homepage.js",
+                    "otherPages": {
+                        "Auth": "Template1/src/Componets/Pages/Auth.jsx",
+                        "Checkout": "Template1/src/Componets/Pages/Checkout.jsx",
+                        "OrderHistory": "Template1/src/Componets/Pages/OrderCofirm.jsx",
+                        "Cart": "Template1/src/Componets/Pages/cart.jsx"
+                    }
+                }
+            }
+        }
+    }
+}
