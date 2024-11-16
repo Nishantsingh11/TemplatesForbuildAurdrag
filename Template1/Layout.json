@@ -5,7 +5,7 @@
                 "header": "Template1/src/Componets/Basic/Navbar.jsx",
                 "footer": "Template1/src/Componets/Basic/Footer.jsx",
                 "main": {
-                    "defaultPage": "Template1/src/Componets/Pages/Homepage.js",
+                    "defaultPage": "Template1/src/Componets/Pages/Homepage.jsx",
                     "otherPages": {
                         "Auth": "Template1/src/Componets/Pages/Auth.jsx",
                         "Checkout": "Template1/src/Componets/Pages/Checkout.jsx",
